@@ -1,5 +1,13 @@
 {
     "cSpell.words": [
-        "venv"
+        "autoclean",
+        "autoremove",
+        "DOCU",
+        "ensurepath",
+        "optionsview",
+        "pipx",
+        "TSLA",
+        "venv",
+        "yfinance"
     ]
 }
